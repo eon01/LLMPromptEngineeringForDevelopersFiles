@@ -24,3 +24,5 @@ This guide is designed to be hands-on, offering practical insights and exercises
 - And more!
 
 With these tools in your toolkit, you will be well-prepared to craft powerful and effective prompts. The hands-on exercises will help solidify your understanding. Throughout the process, you'll be actively engaged and by the end, not only will you appreciate the power of prompt engineering, but you'll also possess the skills to implement it effectively.
+
+![LLM Prompt Engineering For Developers (author's copy)](.readme/book.jpg)
