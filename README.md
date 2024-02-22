@@ -16,10 +16,11 @@ Through chapters dedicated to Azure Prompt Flow, LangChain, and other tools, you
 
 This guide is designed to be hands-on, offering practical insights and exercises. In fact, as you progress, you'll familiarize yourself with several tools:
 
-openai Python library: You will dive into the core of OpenAI's LLMs and learn how to interact and fine-tune models to achieve precise outputs tailored to specific needs.
-promptfoo: You will master the art of crafting effective prompts. Throughout the guide, we'll use promptfoo to test and score prompts, ensuring they're optimized for desired outcomes.
-LangChain: You’ll explore the LangChain framework, which elevates LLM-powered applications. You’ll dive into understanding how a prompt engineer can leverage the power of this tool to test and build effective prompts.
-betterprompt: Before deploying, it's essential to test. With betterprompt, you'll ensure the LLM prompts are ready for real-world scenarios, refining them as needed.
-Azure Prompt Flow: You will experience the visual interface of Azure's tool, streamlining LLM-based AI development. You'll design executable flows, integrating LLMs, prompts, and Python tools, ensuring a holistic understanding of the art of prompting.
-And more!
+- openai Python library: You will dive into the core of OpenAI's LLMs and learn how to interact and fine-tune models to achieve precise outputs tailored to specific needs.
+- promptfoo: You will master the art of crafting effective prompts. Throughout the guide, we'll use promptfoo to test and score prompts, ensuring they're optimized for desired outcomes.
+- LangChain: You’ll explore the LangChain framework, which elevates LLM-powered applications. You’ll dive into understanding how a prompt engineer can leverage the power of this tool to test and build effective prompts.
+- betterprompt: Before deploying, it's essential to test. With betterprompt, you'll ensure the LLM prompts are ready for real-world scenarios, refining them as needed.
+- Azure Prompt Flow: You will experience the visual interface of Azure's tool, streamlining LLM-based AI development. You'll design executable flows, integrating LLMs, prompts, and Python tools, ensuring a holistic understanding of the art of prompting.
+- And more!
+
 With these tools in your toolkit, you will be well-prepared to craft powerful and effective prompts. The hands-on exercises will help solidify your understanding. Throughout the process, you'll be actively engaged and by the end, not only will you appreciate the power of prompt engineering, but you'll also possess the skills to implement it effectively.
